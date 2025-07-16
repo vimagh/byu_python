@@ -16,7 +16,7 @@ adulttotal = (adult * adult_number)
 subtotal = float(childtotal + adulttotal)
 print(f"the subtotal is ${subtotal}")
 
-tax_rate = float(input("What is the sales tax rate? ")) 
+tax_rate = float(input("What is the sales tax rate? "))
 sales_tax = float(subtotal * tax_rate)
 total = float(subtotal + sales_tax)
 

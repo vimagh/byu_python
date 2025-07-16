@@ -1,4 +1,13 @@
-print("Welcome to the Zombi zone! Your mission here is to save humans frorm Zombi invaion")
+"""
+Author: Vimagh Solomon
+Purpose: Week 3 Assignment
+
+"""
+
+# Additional creativity: one of the scenario has more than 3 choices. 
+# The game was shared with a friend and they enjoyed it.
+
+print("Welcome to the Zombi zone! Your mission here is to save humans frorm Zombi invasion")
 
 #First level of choices
 weapon = input("What would you like to do, pick a GUN, RUN or HIDE? ").upper()

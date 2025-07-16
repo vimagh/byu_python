@@ -31,3 +31,4 @@ if give_loan:
     print("The decision is Yes.")
 else:
     print("The decision is No")
+
